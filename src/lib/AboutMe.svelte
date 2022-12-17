@@ -162,7 +162,7 @@
                             <div class="aboutContent" style="margin-top:-20px">
                                 <h2>Tech I've Built With</h2>
                                 <div style="font-family: 'Apple Garamond';font-size:1rem">
-                                        python (django, selnium, scrapy, pandas, Flask, SqlAlchemy), Java, Javascript (Node.js, React, Svelte), C, Rust, SCSS, Tailwind Css, Bash, Git, ZSH, regular expressions.
+                                        Vim ❤️, Python (selnium, scrapy, pandas, Flask, SqlAlchemy), Java, Javascript (Node.js, React, Svelte), C, Rust, SCSS, Tailwind Css, Bash, Git, ZSH, regular expressions.
                                 </div>
                             </div>
                             {:else if value === "Contact"}

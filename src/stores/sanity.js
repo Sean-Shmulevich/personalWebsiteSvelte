@@ -15,6 +15,7 @@ export function urlFor(source) {
 }
 
 export async function get(fileName) {
+    res.header('Access-Control-Allow-Origin', 'https://shmul.dev');
     const data = await client.fetch(`*[name == "${fileName}"]`);
     if (data) {
       return {

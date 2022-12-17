@@ -45,6 +45,7 @@
     "@sanity/image-url": "^1.0.1",
     "@uiw/codemirror-themes": "^4.12.4",
     "codemirror": "^6.0.1",
+    "cors": "^2.8.5",
     "svelte-device-info": "^1.0.0",
     "svelte-drag-and-drop-actions": "^1.0.0",
     "svelte-drag-drop-touch": "^0.1.9",
