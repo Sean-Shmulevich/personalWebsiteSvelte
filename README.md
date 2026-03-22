@@ -38,3 +38,4 @@ I chose svelte as my first frontend framework because of its ease of use and par
 ## What I would do differently
 
 - Planning: I would have spent more time planning the site before starting to code. I would have created a wireframe and a design system to follow. While i was creating version one of the website I was able to write down many grand ideas for the site. I also spent a lot of time exploring websites with a similar "desktop" user interface. This research gave me tons of ideas for my Website. At this point in between version one and version two I should have stuck to a design plan and not deviated from it until after some minimum functionality was achieved. The minimize animation in particular was very difficult to implement and had many many bugs, this caused quite the headache, a more concise plan and component structure would have mitigated all of this time spent debugging the animation.
+<!-- updated Sun Mar 22 07:31:28 PM IST 2026 -->
